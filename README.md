@@ -8,5 +8,5 @@ Get-qiita show new article in [Qiita](http://qiita.com/)
 
 ```
 $ pip install -r requirements.txt
-$ python3 qiita-collector.py
+$ python3 qiita.py
 ```
